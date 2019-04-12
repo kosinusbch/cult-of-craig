@@ -66,3 +66,11 @@ Video: [Craig Wright claims to be working on AI, and evolutionary code (obviousl
 
 ## Other links
 [Deleted CSW LinkedIn page: 22 pages long](http://web.archive.org/web/20190212143034/https://archive.is/Q66Gl)
+
+## Legal Threats
+
+[Craig Wright stating that automated copying of his tweets is a breach of DMCA](https://twitter.com/BotFaketoshi/status/1107584153615097856)
+
+[Craig Wright offering $5000 bounty to dox Holdonaut because he doesn't believe Craig Wright is Satoshi](https://decryptmedia.com/6448/craig-wright-5000-bounty-bitcoin)
+
+[Threatening to sue Peter McCormack for libel for not calling Craig Wright Satoshi](https://twitter.com/PeterMcCormack/status/1116733748794540033)
