@@ -14,6 +14,8 @@ Sock puppets and fans
 
 [Craig Wright faked threats](http://web.archive.org/web/20190212143438/http://archive.is/YTDGT)
 
+[Craig Wright admitting to forging Dave Kleinman's signature](https://i.imgur.com/Eh9y7QW.png)
+
 [Craig Wright faked a public key signing](http://web.archive.org/web/20190212143503/http://archive.is/dNCUX)
 
 [Craig Wright faked knowing how to code ASM](http://web.archive.org/web/20190212140054/https://twitter.com/_LR_/status/1033405218036170752)
