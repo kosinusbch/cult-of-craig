@@ -28,6 +28,8 @@ Facts about CSW's Involvement in Bitcoin
 
 * [Craig Wright falsely states he doesn't want fame or money](https://www.youtube.com/watch?v=5DCAC1j2HTY)
 
+* [Craig Wright submitting fake evidence in court to get out of billion dollar lawsuit](https://decryptmedia.com/6827/craig-wright-faked-email-billion-dollar-lawsuit-court-expert-claims)
+
 ## Experts stating Craig Wright is a fraud
 
 * Nik Cubrilovic (security expert): [Craig Wright is not Satoshi Nakamoto](https://web.archive.org/web/20160503060225/https://www.nikcub.com/posts/craig-wright-is-not-satoshi-nakamoto/)
