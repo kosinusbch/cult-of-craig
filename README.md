@@ -76,10 +76,16 @@ Facts about CSW's Involvement in Bitcoin
 
 * [Deleted CSW LinkedIn page: 22 pages long](http://web.archive.org/web/20190212143034/https://archive.is/Q66Gl)
 
-## Legal Threats
+## Legal Threats & Lawsuits
 
 * [Craig Wright stating that automated copying of his tweets is a breach of DMCA](https://twitter.com/BotFaketoshi/status/1107584153615097856)
 
 * [Craig Wright offering $5000 bounty to dox Holdonaut because he doesn't believe Craig Wright is Satoshi](https://decryptmedia.com/6448/craig-wright-5000-bounty-bitcoin)
 
 * [Threatening to sue Peter McCormack for libel for not calling Craig Wright Satoshi](https://twitter.com/PeterMcCormack/status/1116733748794540033)
+
+* [Craig Wright suing Roger 'Bitcoin Jesus' Ver for libel](https://decryptmedia.com/6874/roger-ver-craig-wright-lawsuit)
+
+## Lawsuits Lost
+
+(coming soon)
