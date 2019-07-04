@@ -22,6 +22,8 @@ Facts about CSW's Involvement in Bitcoin
 
 * [Craig Wright faked knowing how to code ASM](http://web.archive.org/web/20190212140054/https://twitter.com/_LR_/status/1033405218036170752)
 
+* [Craig Wright attempting to back date blog post](https://i.imgur.com/aoIAuYR.png) ([1](https://web.archive.org/web/20150525004846/http://gse-compliance.blogspot.com/2011_03_27_archive.html)) ([2](https://web.archive.org/web/20110814083117/http://gse-compliance.blogspot.com/2007/12/slacker-or-hiding-files-in-ntfs-slack.html))
+
 ## Fraud
 
 * [Craig Wright lied about owning MtGox' bitcoin](http://web.archive.org/web/20181213150031/http://archive.is/Nf7ix)
