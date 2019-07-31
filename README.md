@@ -92,4 +92,4 @@ Facts about CSW's Involvement in Bitcoin
 
 ## Lawsuits Lost
 
-(coming soon)
+[UK judge slams Craig Wright’s defamation case against Roger Ver](https://thenextweb.com/hardfork/2019/07/31/uk-judge-slams-craig-wrights-defamation-case-against-roger-ver/)
